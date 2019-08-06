@@ -1,0 +1,26 @@
+{
+  "name": "adyen-issue-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbo/adyen-issue-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbo/adyen-issue-reproduction/issues"
+  },
+  "homepage": "https://github.com/tbo/adyen-issue-reproduction#readme",
+  "dependencies": {
+    "@adyen/api-library": "^2.1.0",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.17"
+  }
+}
